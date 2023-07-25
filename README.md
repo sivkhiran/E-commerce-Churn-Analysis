@@ -39,6 +39,25 @@ Evaluate the trained model using the testing data to assess its performance. Com
 
 Analyze the feature importances of the model to identify which features have the most significant impact on predicting churn. This helps in understanding the key factors influencing churn.
 
+**Results**
+Logistic Regression: 
+Accuracy: 0.85
+ROC-AUC Score: 0.8186009896536213
+
+Random Forest Classifier Accuracy: 0.9653641207815276
+ROC-AUC Score: 0.9957405533063427
+
+Gradient Boosting Classifier Accuracy: 0.9129662522202486
+ROC-AUC Score: 0.6951557579847053
+
+Support Vector Machine Classifier Accuracy: 0.8383658969804618
+ROC-AUC Score: 0.8488585245164193
+
+Neural Network Classifier Accuracy: 0.8312611012433393
+ROC-AUC Score: 0.6700236167341431
+
+Here from the result, we can clearly see that Random Forest Classifier has better accuracy than any other models used.
+
 Dataset: 
 
 Link:https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
