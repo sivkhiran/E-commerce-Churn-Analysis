@@ -12,7 +12,7 @@ Perform an initial exploration of the data to understand its structure, features
 **Data Preprocessing:**
 
 Handle missing data: Impute missing values using techniques like mean, median, or forward/backward fill.
-Encode categorical variables: Convert categorical features into numerical format using techniques like label encoding or one-hot encoding.
+Encode categorical variables: Convert categorical features into a numerical format using techniques like label encoding or one-hot encoding.
 Scale numerical features: Standardize or normalize numerical features to bring them to a similar scale.
 
 **Feature Engineering:**
@@ -39,3 +39,6 @@ Evaluate the trained model using the testing data to assess its performance. Com
 
 Analyze the feature importances of the model to identify which features have the most significant impact on predicting churn. This helps in understanding the key factors influencing churn.
 
+Dataset: 
+
+Link:https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
